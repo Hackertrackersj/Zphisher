@@ -1,24 +1,24 @@
 # Zphisher
-Installation :
-apt update
-apt install git curl php openssh -y
-git clone git://github.com/htr-tech/zphisher.git
-cd zphisher
-> Run : bash zphisher.sh
-Single Command :
+Installation :<br>
+apt update<br>
+apt install git curl php openssh -y<br>
+git clone git://github.com/htr-tech/zphisher.git<br>
+cd zphisher<br>
+> Run : bash zphisher.sh<br>
+Single Command :<br>
 
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/
-Features :
-[+] Latest Login Pages !
-[+] New Instagram Auto Follower Page !
-[+] 4 Port Forwarding Options !
-[+] Easy for Beginners !
-Credits :
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/<br>
+Features :<br>
+[+] Latest Login Pages !<br>
+[+] New Instagram Auto Follower Page !<br>
+[+] 4 Port Forwarding Options !<br>
+[+] Easy for Beginners !<br>
+Credits :<br>
 > TheLinuxChoice (https://github.com/Hackertrackersj)
+<br>
 
-
-Tunelling Options :
-> Localhost (127.0.0.1)
-> NGROK (https://ngrok.com)
-> SERVEO (https://serveo.net)
-> LOCALHOSTRUN (https://localhost.run)
+Tunelling Options :<br>
+> Localhost (127.0.0.1)<br>
+> NGROK (https://ngrok.com)<br>
+> SERVEO (https://serveo.net)<br>
+> LOCALHOSTRUN (https://localhost.run)<br>
