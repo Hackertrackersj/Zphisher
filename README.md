@@ -2,8 +2,8 @@
 Installation :<br>
 apt update<br>
 apt install git curl php openssh -y<br>
-git clone git://github.com/htr-tech/zphisher.git<br>
-cd zphisher<br>
+git clone git://github.com/Hackertrackersj/Zphisher.git<br>
+cd Zphisher<br>
 > Run : bash zphisher.sh<br>
 Single Command :<br>
 
